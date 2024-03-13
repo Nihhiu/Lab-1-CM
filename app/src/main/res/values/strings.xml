@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="text_at1">Isto é AT1!</string>
+    <string name="button_at1">Ir para AT2</string>
+    <string name="text_at2">Isto é AT2!</string>
+    <string name="button_at2">Fechar</string>
+    <string name="text_at_aluno" translatable="false">Sérgio Gabriel, 28251, EI</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 1</string>
+    <string name="text_at1">This is AT1!</string>
+    <string name="button_at1">Go to AT2</string>
+    <string name="text_at2">This is AT2!</string>
+    <string name="button_at2">Close</string>
+</resources>
